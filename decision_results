@@ -1,0 +1,15 @@
+
+class DecisionResult {
+  final String decisions;
+  final string prosAndCons;
+  final String comparisonTable;
+  final String swotAnalysis;
+
+  DecisionResult({
+
+    required this.decisions,
+    required this.prosAndCons,
+    required this.comparisonTable,
+    required this.swotAnalysis,
+  })
+}
